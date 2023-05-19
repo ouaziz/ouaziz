@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ouaziz
-- 👀 I’m interested in RubyOnRails and php
-- 🌱 I’m currently learning Go and Rust
-- 💞️ I’m looking to collaborate on Rails and php projects
-- 📫 How to reach me : send message in linkedin
+- 👀 I’m interested in RubyOnRails PHP, Powershell ...
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on Open source projects
+- 📫 How to reach me : find me on linkedin
 
 <!---
 ouaziz/ouaziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
