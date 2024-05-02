@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ouaziz
-- 👀 I’m interested in RubyOnRails PHP, Powershell ...
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Ruby, PHP, Python, Powershell ...
+- 🌱 I’m learning New Technologies
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me : find me on linkedin
 
