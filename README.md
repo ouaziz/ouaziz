@@ -29,8 +29,8 @@ Passionné par la création de solutions web robustes, j’aide les jeunes start
 ---
 
 ##  Me contacter
-- **LinkedIn** : [Ton profil LinkedIn]([lien](https://www.linkedin.com/in/mouhcine-o-a255265a/))
-- **Twitter/X** : [@ouaziz] (optionnel)
+- **LinkedIn** : https://www.linkedin.com/in/mouhcine-o-a255265a/
+- **Twitter/X** : [@ouaziz]
 
 ---
 
