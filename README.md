@@ -1,19 +1,38 @@
-- 👋 Hi, I’m @ouaziz
-- 👀 I’m interested in Ruby, PHP, Python, Powershell ...
-- 🌱 I’m learning New Technologies
-- 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me : find me on linkedin
+# Bonjour, je suis Mouhcine Ouaziz
 
-### Visitor count
+###  DEVOPS Spécialiste | Développeur Python et Ruby on Rails | Conseils pour startups | Montréal
 
-<img src="https://profile-counter.glitch.me/ouaziz/count.svg" />
+Passionné par la création de solutions web robustes, j’aide les jeunes startups à passer de l’idée à la réalisation concrète. Je combine une forte expertise technique avec une vision pragmatique du développement produit.
 
-Added the `Mon 3 Jan 2022`
+---
 
-Last update on Tue Jul 30 2024
+##  Compétences clés
+- **Backend** : Python, Ruby on Rails, REST API, Microservices
+- **Frontend** : JavaScript, vue.js, ReactJS, NextJS, Stimulus, Hotwire
+- **DevOps & Outils** : Docker, CI/CD, Gitlab, Microsoft Devops ...
+- **Startup Tech** : MVP rapide, itérations agiles, scaling, product-market fit
 
-**155 day before 2025 ⏱** days before new years
-<!---
-ouaziz/ouaziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+##  Projets remarquables
+- **[Nom du projet 1]** – Brève description du projet, technologies clés, ce que tu y as apporté
+- **[Nom du projet 2]** – Même format
+- *Ajoute ici d’autres projets selon tes priorités*
+
+---
+
+##  Statistiques GitHub
+<!-- Ajoute ici des badges dynamiques comme GitHub Stats, Top Languages ou Streak -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ouaziz&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouaziz&layout=compact)
+
+---
+
+##  Me contacter
+- **LinkedIn** : [Ton profil LinkedIn]([lien](https://www.linkedin.com/in/mouhcine-o-a255265a/))
+- **Twitter/X** : [@ouaziz] (optionnel)
+
+---
+
+##  Licence
+La majorité de mes projets sont publiés sous [Licence souhaitée], favorisant la collaboration ouverte et éthique.
