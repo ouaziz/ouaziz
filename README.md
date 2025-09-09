@@ -21,13 +21,6 @@ Passionné par la création de solutions web robustes, j’aide les jeunes start
 
 ---
 
-##  Statistiques GitHub
-<!-- Ajoute ici des badges dynamiques comme GitHub Stats, Top Languages ou Streak -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ouaziz&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouaziz&layout=compact&theme=dark)
-
----
-
 ##  Me contacter
 - **LinkedIn** : https://www.linkedin.com/in/mouhcine-o-a255265a/
 
